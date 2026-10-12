@@ -101,15 +101,6 @@ LMS/
 
 The full schema is in [`lms_db.sql`](lms_db.sql). It covers the tables for users, admins, books, and book rentals used by the system.
 
----
-
-## 📸 Screenshots
-
-_Add screenshots of your pages here (Home, Login, Available Books, Rent a Book, Manage Book, etc.)._
-
-```
-![Home](screenshots/home.png)
-```
 
 ---
 
